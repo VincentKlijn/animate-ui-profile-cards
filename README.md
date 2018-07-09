@@ -11,4 +11,4 @@ The HTML is heavily commented to make identifying the elements easy and to under
 ### The CSS
 The CSS is heavily commented to explain the individual rules.
 
-## Take a look at the live working version of this demo.
+## [Take a look at the live working version of this demo.](https://vincentklijn.github.io/animate-ui-profile-cards/)
